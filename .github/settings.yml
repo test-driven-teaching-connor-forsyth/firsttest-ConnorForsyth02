@@ -1,0 +1,10 @@
+repository:
+  description: here you will develop your javascript skills using the accompanying hello.js file
+
+labels:
+  - name: ask-the-bot
+    color: '#328ba8'
+    description: If you would like help from the bot select this label
+  - name: help-wanted
+    color: '#32a866'
+    description: If you would like help from other students please select this label
